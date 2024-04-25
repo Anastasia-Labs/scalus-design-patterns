@@ -1,5 +1,23 @@
+# Scala
+
 *.class
 *.log
+target
+/.bsp
+.bloop/
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+.scala-build
+*.plutus
+scala-cli.json
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+.metals
+metals.sbt
+
+# Local configuration
+
+.vscode
+
